@@ -1,0 +1,14 @@
+/home/guilherme/Documents/Projects/Dotnet/bin/Debug/net8.0/Dotnet
+/home/guilherme/Documents/Projects/Dotnet/bin/Debug/net8.0/Dotnet.deps.json
+/home/guilherme/Documents/Projects/Dotnet/bin/Debug/net8.0/Dotnet.runtimeconfig.json
+/home/guilherme/Documents/Projects/Dotnet/bin/Debug/net8.0/Dotnet.dll
+/home/guilherme/Documents/Projects/Dotnet/bin/Debug/net8.0/Dotnet.pdb
+/home/guilherme/Documents/Projects/Dotnet/obj/Debug/net8.0/Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/guilherme/Documents/Projects/Dotnet/obj/Debug/net8.0/Dotnet.AssemblyInfoInputs.cache
+/home/guilherme/Documents/Projects/Dotnet/obj/Debug/net8.0/Dotnet.AssemblyInfo.cs
+/home/guilherme/Documents/Projects/Dotnet/obj/Debug/net8.0/Dotnet.csproj.CoreCompileInputs.cache
+/home/guilherme/Documents/Projects/Dotnet/obj/Debug/net8.0/Dotnet.dll
+/home/guilherme/Documents/Projects/Dotnet/obj/Debug/net8.0/refint/Dotnet.dll
+/home/guilherme/Documents/Projects/Dotnet/obj/Debug/net8.0/Dotnet.pdb
+/home/guilherme/Documents/Projects/Dotnet/obj/Debug/net8.0/Dotnet.genruntimeconfig.cache
+/home/guilherme/Documents/Projects/Dotnet/obj/Debug/net8.0/ref/Dotnet.dll
